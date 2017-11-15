@@ -8,3 +8,6 @@ This is the code companion for introduction to django. I separated all the steps
 * Create new folder
 * Install django
 ```pip install django```
+
+### Second step
+* Run ```django-admin startproject ttt```
