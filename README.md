@@ -13,3 +13,16 @@ This is the code companion for introduction to django. I separated all the steps
 
 ### Third step
 * Run ```./manage.py startapp tracking```
+
+### Fourth step
+* Create a `template` folder inside `tracking`
+* Add `tracking` to `INSTALLED_APPS` in `settings.py`
+* Add `index.html` to `template`
+* Add a view function inside `views.py`
+* Bind the view with an url in `urls.py`
+* Run `./manage.py runserver` to start the server
+
+### Fifth step
+* Add a model in `models.py`
+* Save a new instance and return all in the view
+* Show them in the html
