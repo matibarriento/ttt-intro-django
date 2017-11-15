@@ -32,3 +32,7 @@ This is the code companion for introduction to django. I separated all the steps
 
 ### Sixth step
 * Regiter the model in the `admin.py` 
+* Create superuser runnnig `./manage.py createsuperuser`
+
+### Seventh step
+* Improve the admin
