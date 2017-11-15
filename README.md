@@ -29,3 +29,6 @@ This is the code companion for introduction to django. I separated all the steps
 * Run the migrations
     * `./manage.py makemigrations`
     * `./manage.py migrate`
+
+### Sixth step
+* Regiter the model in the `admin.py` 
