@@ -26,3 +26,6 @@ This is the code companion for introduction to django. I separated all the steps
 * Add a model in `models.py`
 * Save a new instance and return all in the view
 * Show them in the html
+* Run the migrations
+    * `./manage.py makemigrations`
+    * `./manage.py migrate`

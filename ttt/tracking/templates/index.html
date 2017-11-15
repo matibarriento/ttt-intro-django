@@ -1,2 +1,7 @@
 <h1>TTT Home page</h1>
-<p>We don't track</p>
+<p>We track :(</p>
+
+{% for item in tracked %}
+    <h3> {{ item.tracked_on }} {{ item.title }}</h3>
+    <p> {{ item.observation }}</p>
+{% endfor %}
