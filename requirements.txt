@@ -1,2 +1,4 @@
 Django==1.11.7
 pytz==2017.3
+django-extensions==1.9.7
+ipdb==0.10.3

@@ -36,3 +36,7 @@ This is the code companion for introduction to django. I separated all the steps
 
 ### Seventh step
 * Improve the admin
+
+### Eighth step
+* Separte `INSTALLED_APPS`
+* Add `django_extensions`
